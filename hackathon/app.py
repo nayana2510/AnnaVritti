@@ -183,7 +183,7 @@ def get_weather():
         data = response.json()
         
         avg_temp = sum(data['daily']['temperature_2m_max'][:3]) / 3
-        total_rain = sum(data['daily']['precipitation_sum'][:3])
+        total_rain = sum(data['daily']['pr-ecipitation_sum'][:3])
         
         if total_rain > 50:
             advice = "⚠️ HEAVY RAIN ALERT! Ensure drainage systems ready."
