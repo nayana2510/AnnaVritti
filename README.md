@@ -16,3 +16,12 @@ Road map :
 
 Required softwares:Git Code editor Python idle Node.js
 
+# Navigate to backend
+cd hackathon/backend
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Start the server
+python app.py
+
