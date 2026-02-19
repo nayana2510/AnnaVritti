@@ -7,3 +7,12 @@ Annavritti is an AI-powered  advisor that analyzes soil, weather, and market dat
 It provides personalized suggestions with confidence scores, real-time profit comparisons, risk warnings, and government scheme integration empowering farmers to make informed decisions that increase income by 30-40% while saving water and building climate resilience.
 
 Road map :
+📁 Hackathon/ (drag this whole folder)
+├── 📁 backend/
+├── 📁 frontend/
+├── 📄 README.md (your beautiful README)
+├── 📄 .gitignore
+└── 📄 requirements.txt
+
+Required softwares:Git Code editor Python idle Node.js
+
